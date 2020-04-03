@@ -1,0 +1,11 @@
+C:\Users\James\Documents\Unit1\Deliverable 2\bin\Debug\netcoreapp2.1\Deliverable 2.deps.json
+C:\Users\James\Documents\Unit1\Deliverable 2\bin\Debug\netcoreapp2.1\Deliverable 2.runtimeconfig.json
+C:\Users\James\Documents\Unit1\Deliverable 2\bin\Debug\netcoreapp2.1\Deliverable 2.runtimeconfig.dev.json
+C:\Users\James\Documents\Unit1\Deliverable 2\bin\Debug\netcoreapp2.1\Deliverable 2.dll
+C:\Users\James\Documents\Unit1\Deliverable 2\bin\Debug\netcoreapp2.1\Deliverable 2.pdb
+C:\Users\James\Documents\Unit1\Deliverable 2\obj\Debug\netcoreapp2.1\Deliverable 2.csprojAssemblyReference.cache
+C:\Users\James\Documents\Unit1\Deliverable 2\obj\Debug\netcoreapp2.1\Deliverable 2.csproj.CoreCompileInputs.cache
+C:\Users\James\Documents\Unit1\Deliverable 2\obj\Debug\netcoreapp2.1\Deliverable 2.AssemblyInfoInputs.cache
+C:\Users\James\Documents\Unit1\Deliverable 2\obj\Debug\netcoreapp2.1\Deliverable 2.AssemblyInfo.cs
+C:\Users\James\Documents\Unit1\Deliverable 2\obj\Debug\netcoreapp2.1\Deliverable 2.dll
+C:\Users\James\Documents\Unit1\Deliverable 2\obj\Debug\netcoreapp2.1\Deliverable 2.pdb
